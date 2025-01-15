@@ -240,5 +240,7 @@ combos:
   k: {t: '$$mdi:apple-keyboard-option$$', h: '$$mdi:gesture-tap-hold$$'}
 - p: [22, 34]
   k: {t: '$$mdi:apple-keyboard-control$$', h: '$$mdi:gesture-tap-hold$$'}
-- p: [3, 4]
+- p: [27, 28]
   k: Gui+`
+- p: [14, 15, 16]
+  k: Alt+Ctl+$$mdi:keyboard-space$$
