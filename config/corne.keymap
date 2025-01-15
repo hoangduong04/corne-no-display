@@ -77,7 +77,12 @@
 
         switch-app-windows-mac {
             bindings = <&kp LG(GRAVE)>;
-            key-positions = <3 4>;
+            key-positions = <27 28>;
+        };
+
+        switch-input {
+            bindings = <&kp LA(LC(SPACE))>;
+            key-positions = <14 15 16>;
         };
     };
 
