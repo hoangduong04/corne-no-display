@@ -37,8 +37,8 @@ layers:
   - {t: ., s: '>'}
   - {t: /, s: '?'}
   - {t: function, h: '$$mdi:gesture-tap-hold$$'}
-  - {t: '$$mdi:apple-keyboard-command$$', h: '$$mdi:gesture-tap-hold$$'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
+  - {t: '$$mdi:apple-keyboard-command$$', h: '$$mdi:gesture-tap-hold$$'}
   - {t: '$$mdi:keyboard-tab$$', h: lower}
   - {t: '$$mdi:backspace$$', h: raise}
   - $$mdi:keyboard-space$$
